@@ -1,0 +1,8 @@
+macauolbot:
+  name: name
+  token: 123456789:ABCDEFGHIJKLMN-opqrstuvwxyz
+
+proxy:
+  host: 127.0.0.1
+  port: 1080
+  type: SOCKS5
